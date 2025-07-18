@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    --main-color: #73281a
+
+}
+    .clearfix{
+    clear: both;
+}
+body{
+    background-color: rgb(61, 60, 60);
+  font-family: "Barlow Condensed", sans-serif;
+
+}
+.container{
+    overflow: auto;
+    margin:  auto ;
+     width: 80%;
+}
+.float-right{
+    float: right;
+}
+.float-left{
+    float: left;
+}
+.title{
+    font-size: 55px;
+    margin: 30px;
+    text-align: center;
+    color: white;
+}
